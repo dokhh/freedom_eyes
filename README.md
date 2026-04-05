@@ -40,6 +40,11 @@ Freedom Eyes는 유저의 안전과 보안을 최우선으로 설계되었습니
 
 👉 **[최신 버전 다운로드 하러 가기](../../releases/latest)**
 
+## 지원 및 문의
+- 개발 및 기획: 독호 (@dokhh)
+- Discord: [@dokhh](https://discord.com/users/1488925843072745676)
+- Email: dokhh@duck.com
+
 <br>
 
 ---
